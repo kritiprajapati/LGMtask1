@@ -5,4 +5,5 @@ Task: To develop a To-Do list. Languages used: Html, CSS, and javascript.
 IDE used: Visual Code studio
 
 Linkedin: https://www.linkedin.com/posts/kriti-prajapati-a24321200_task1-letsgrowmore-amarkesarwani-activity-6897894773584457728-b6Im?utm_source=share&utm_medium=member_android
+
 Direct website link: https://kritiprajapati.github.io/LGMtask1/
